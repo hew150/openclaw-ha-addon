@@ -1,6 +1,6 @@
 name: "OpenClaw Agent Pro"
 description: "融合原生浏览器沙箱与满血极客工具链的 AI 大脑 🦞"
-version: "2026.3.7-auto.b22"
+version: "2026.3.8-auto.b23"
 slug: "openclaw_agent_pro"
 init: false
 arch:
